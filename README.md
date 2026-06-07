@@ -17,7 +17,7 @@ To resolve this project, we need the following tables:
 - How profitable is each market considering the marketing expenses?
 
 **Methology**
-- **Data processing**: FFirst, explore the database and check the join keys. Then, familiarize yourself with the database diagram. 
+- **Data processing**: First, explore the database and check the join keys. Then, familiarize yourself with the database diagram. 
  
 Some screenshots:
 
