@@ -124,3 +124,6 @@ SELECT
   - The analysis is concluded with the export of results to Excel or Google Sheets for stakeholders' review. The format is comprehensive.
 
 <img width="1872" height="680" alt="image" src="https://github.com/user-attachments/assets/89420c2a-f89a-4b52-b546-329d0ff5dd3e" />
+
+[Proyecto 2_ Análisis financiero  SQL - Resumen ejecutivo.xlsx](https://github.com/user-attachments/files/28678562/Proyecto.2_.Analisis.financiero.SQL.-.Resumen.ejecutivo.xlsx)
+
